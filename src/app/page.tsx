@@ -54,7 +54,7 @@ export default function Home() {
     <div className="container mx-auto p-4 sm:p-6 md:p-8">
       <Card className="w-full max-w-4xl mx-auto">
         <CardHeader>
-          <CardTitle className="text-2xl sm:text-3xl font-bold text-center">J팝칭코</CardTitle>
+          <CardTitle className="text-2xl sm:text-3xl font-bold text-center">J-팝칭코</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="flex flex-col sm:flex-row gap-2 mb-4">

@@ -12,1359 +12,1359 @@ export interface Artist {
 
 export const artists: Artist[] = [
   {
-    "name": "aimyon",
+    "name": "あいみょん",
     "songs": [
       {
         "title": "愛を伝えたいだとか",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "28907",
         "ky": "44310"
       },
       {
         "title": "マリーゴールド",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "28927",
         "ky": "44314"
       },
       {
         "title": "生きていたんだよな",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "28946",
         "ky": "44332"
       },
       {
         "title": "君はロックを聴かない",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "28948",
         "ky": "44349"
       },
       {
         "title": "今夜このまま",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "28955",
         "ky": "44357"
       },
       {
         "title": "ハルノヒ",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68002",
         "ky": "44387"
       },
       {
         "title": "貴方解剖純愛歌 〜死ね〜",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68012",
         "ky": "44380"
       },
       {
         "title": "空の青さを知る人よ",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68101",
         "ky": "44471"
       },
       {
         "title": "真夏の夜の匂いがする",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68113",
         "ky": "44464"
       },
       {
         "title": "ふたりの世界",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68133",
         "ky": "44700"
       },
       {
         "title": "さよならの今日に",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68201",
         "ky": "-"
       },
       {
         "title": "満月の夜なら",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68237",
         "ky": "44556"
       },
       {
         "title": "裸の心",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68252",
         "ky": "44571"
       },
       {
         "title": "愛を知るまでは",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68426",
         "ky": "44691"
       },
       {
         "title": "ジェニファー",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68508",
         "ky": "44715"
       },
       {
         "title": "ハート",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68555",
         "ky": "44763"
       },
       {
         "title": "桜が降る夜は",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68590",
         "ky": "-"
       },
       {
         "title": "初恋が泣いている",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68608",
         "ky": "44823"
       },
       {
         "title": "双葉",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68609",
         "ky": "44800"
       },
       {
         "title": "3636",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68749",
         "ky": "-"
       },
       {
         "title": "愛の花",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68785",
         "ky": "44925"
       },
       {
         "title": "die die die",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "68896",
         "ky": "-"
       },
       {
         "title": "ノット・オーケー",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "-",
         "ky": "-"
       },
       {
         "title": "あのね",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "75871",
         "ky": "-"
       },
       {
         "title": "あした世界が終わるとしても",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "75933",
         "ky": "-"
       },
       {
         "title": "会いに行くのに",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "75963",
         "ky": "-"
       },
       {
         "title": "チカ",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "75969",
         "ky": "-"
       },
       {
         "title": "ラッキーカラー",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "76517",
         "ky": "-"
       },
       {
         "title": "ざらめ",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "76536",
         "ky": "-"
       },
       {
         "title": "rhythm 64",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "-",
         "ky": "-"
       },
       {
         "title": "どうせ死ぬなら",
-        "artist": "aimyon",
+        "artist": "あいみょん",
         "tj": "-",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "higedan",
+    "name": "Official髭男dism",
     "songs": [
       {
         "title": "Pretender",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68058",
         "ky": "44438"
       },
       {
         "title": "宿命(숙명)",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68086",
         "ky": "44442"
       },
       {
         "title": "ノーダウト",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68087",
         "ky": "44440"
       },
       {
         "title": "イエスタデイ",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68104",
         "ky": "44458"
       },
       {
         "title": "115万キロのフィルム",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "-",
         "ky": "44507"
       },
       {
         "title": "I LOVE...",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68200",
         "ky": "44519"
       },
       {
         "title": "Laughter",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68261",
         "ky": "-"
       },
       {
         "title": "Stand By You",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68850",
         "ky": "44587"
       },
       {
         "title": "HELLO",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68295",
         "ky": "44593"
       },
       {
         "title": "Universe",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68366",
         "ky": "44645"
       },
       {
         "title": "Cry Baby",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68407",
         "ky": "44674"
       },
       {
         "title": "ミックスナッツ",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68600",
         "ky": "44783"
       },
       {
         "title": "Subtitle",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68720",
         "ky": "44868"
       },
       {
         "title": "ホワイトノイズ",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68766",
         "ky": "44910"
       },
       {
         "title": "Chessboard",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68828",
         "ky": "44990"
       },
       {
         "title": "TATTOO",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68838",
         "ky": "44969"
       },
       {
         "title": "日常",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68906",
         "ky": "75852"
       },
       {
         "title": "SOULSOUP",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "68916",
         "ky": "75880"
       },
       {
         "title": "Sharon",
-        "artist": "higedan",
+        "artist": "Official髭男dism",
         "tj": "52711",
         "ky": "75997"
       }
     ]
   },
   {
-    "name": "hoshinogen",
+    "name": "星野源",
     "songs": [
       {
         "title": "フィルム",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "27282",
         "ky": "-"
       },
       {
         "title": "SUN",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "27924",
         "ky": "44000"
       },
       {
         "title": "恋",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "27982",
         "ky": "44096"
       },
       {
         "title": "時よ",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "28698",
         "ky": "44151"
       },
       {
         "title": "Family Song",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "28743",
         "ky": "44189"
       },
       {
         "title": "ドラえもん",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "28823",
         "ky": "44258"
       },
       {
         "title": "アイデア",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "28911",
         "ky": "44317"
       },
       {
         "title": "Pop Virus",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "28958",
         "ky": "-"
       },
       {
         "title": "不思議",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "68416",
         "ky": "44680"
       },
       {
         "title": "Cube",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "68534",
         "ky": "44725"
       },
       {
         "title": "喜劇",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "68601",
         "ky": "44784"
       },
       {
         "title": "光の跡",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "68908",
         "ky": "75879"
       },
       {
         "title": "Eureka",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "52833",
         "ky": "-"
       },
       {
         "title": "私",
-        "artist": "hoshinogen",
+        "artist": "星野源",
         "tj": "52857",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "kenshi",
+    "name": "米津玄師",
     "songs": [
       {
         "title": "ゴーゴー幽霊船",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "27941",
         "ky": "44057"
       },
       {
         "title": "メトロノーム",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "27945",
         "ky": "44066"
       },
       {
         "title": "アイネクライネ",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28607",
         "ky": "44040"
       },
       {
         "title": "orion",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28660",
         "ky": "44128"
       },
       {
         "title": "灰色と青",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28789",
         "ky": "44207"
       },
       {
         "title": "春雷",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28795",
         "ky": "44227"
       },
       {
         "title": "Flamingo",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28983",
         "ky": "-"
       },
       {
         "title": "Lemon",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28822",
         "ky": "44253"
       },
       {
         "title": "LOSER",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28686",
         "ky": "44148"
       },
       {
         "title": "MAD HEAD LOVE",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28596",
         "ky": "44195"
       },
       {
         "title": "vivi",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "27915",
         "ky": "44048"
       },
       {
         "title": "感電",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68300",
         "ky": "44591"
       },
       {
         "title": "Pale Blue",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68423",
         "ky": "44689"
       },
       {
         "title": "馬と鹿",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68094",
         "ky": "44448"
       },
       {
         "title": "ピースサイン",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "28720",
         "ky": "44170"
       },
       {
         "title": "海の幽霊",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68019",
         "ky": "44480"
       },
       {
         "title": "パプリカ",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68089",
         "ky": "-"
       },
       {
         "title": "KICK BACK",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68677",
         "ky": "44855"
       },
       {
         "title": "月を見ていた",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68824",
         "ky": "44971"
       },
       {
         "title": "地球儀",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68840",
         "ky": "44993"
       },
       {
         "title": "さよーならまたいつか！",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52580",
         "ky": "75948"
       },
       {
         "title": "毎日",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68478",
         "ky": "75974"
       },
       {
         "title": "LADY",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "68495",
         "ky": "76514"
       },
       {
         "title": "がらくた",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52725",
         "ky": "76529"
       },
       {
         "title": "RED OUT",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52737",
         "ky": "76537"
       },
       {
         "title": "まちがいさがし",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52728",
         "ky": "-"
       },
       {
         "title": "ゆめうつつ",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52764",
         "ky": "-"
       },
       {
         "title": "Plazma",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52905",
         "ky": "57825"
       },
       {
         "title": "BOW AND ARROW",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52796",
         "ky": "57822"
       },
       {
         "title": "Azalea",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52828",
         "ky": "-"
       },
       {
         "title": "M八七",
-        "artist": "kenshi",
+        "artist": "米津玄師",
         "tj": "52892",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "kinggnu",
+    "name": "King Gnu",
     "songs": [
       {
         "title": "Prayer X",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68164",
         "ky": "44496"
       },
       {
         "title": "白日",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68031",
         "ky": "44404"
       },
       {
         "title": "飛行艇",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68135",
         "ky": "44499"
       },
       {
         "title": "傘",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68124",
         "ky": "-"
       },
       {
         "title": "Teenager Forever",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68194",
         "ky": "44537"
       },
       {
         "title": "三文小説",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68346",
         "ky": "44630"
       },
       {
         "title": "泡",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68379",
         "ky": "44702"
       },
       {
         "title": "BOY",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68533",
         "ky": "44728"
       },
       {
         "title": "二途",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68556",
         "ky": "44745"
       },
       {
         "title": "逆夢",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68561",
         "ky": "44744"
       },
       {
         "title": "カメレオン",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68585",
         "ky": "44788"
       },
       {
         "title": "SPECIALZ",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68876",
         "ky": "75838"
       },
       {
         "title": "硝子窓",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68903",
         "ky": "75849"
       },
       {
         "title": "雨燦々",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "68472",
         "ky": "75981"
       },
       {
         "title": "The hole",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "52754",
         "ky": "-"
       },
       {
         "title": "Vinyl",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "52835",
         "ky": "57815"
       },
       {
         "title": "Overflow",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "52838",
         "ky": "-"
       },
       {
         "title": "TWILIGHT!!!",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "52840",
         "ky": "-"
       },
       {
         "title": "破裂",
-        "artist": "kinggnu",
+        "artist": "King Gnu",
         "tj": "52849",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "lisa",
+    "name": "LiSA",
     "songs": [
       {
         "title": "一番の宝物 <Yui ver.>",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "28380",
         "ky": "43311"
       },
       {
         "title": "träumerei",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27458",
         "ky": "43994"
       },
       {
         "title": "crossing field",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27541",
         "ky": "43528"
       },
       {
         "title": "oath sign",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27561",
         "ky": "43374"
       },
       {
         "title": "Rising Hope",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27600",
         "ky": "43438"
       },
       {
         "title": "シルシ",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27687",
         "ky": "43870"
       },
       {
         "title": "Brave Freak Out",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27953",
         "ky": "-"
       },
       {
         "title": "Rally Go Round",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "27993",
         "ky": "44131"
       },
       {
         "title": "Catch the Moment",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "28670",
         "ky": "44134"
       },
       {
         "title": "だってアタシのヒーロー。",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "28738",
         "ky": "44185"
       },
       {
         "title": "ASH",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "28808",
         "ky": "44231"
       },
       {
         "title": "ADAMAS",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "28972",
         "ky": "44335"
       },
       {
         "title": "紅蓮華",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68047",
         "ky": "44419"
       },
       {
         "title": "from the edge",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68103",
         "ky": "44459"
       },
       {
         "title": "unlasting",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68155",
         "ky": "44486"
       },
       {
         "title": "炎",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68312",
         "ky": "44601"
       },
       {
         "title": "愛錠",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68330",
         "ky": "-"
       },
       {
         "title": "再会(with Uru",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "LiSA",
         "ky": "68342"
       },
       {
         "title": "dawn",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68369",
         "ky": "44638"
       },
       {
         "title": "往け",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68525",
         "ky": "-"
       },
       {
         "title": "明け星",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68527",
         "ky": "44724"
       },
       {
         "title": "白銀",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68542",
         "ky": "44722"
       },
       {
         "title": "HADASHI NO STEP",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68619",
         "ky": "44802"
       },
       {
         "title": "REALiZE",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68834",
         "ky": "44961"
       },
       {
         "title": "play the world! feat.PABLO",
-        "artist": "lisa",
+        "artist": "LiSA",
         "tj": "68945",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "mrs",
+    "name": "Mrs. GREEN APPLE",
     "songs": [
       {
         "title": "WanteD! WanteD!",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "-",
         "ky": "28776"
       },
       {
         "title": "インフェルノ",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68095",
         "ky": "44455"
       },
       {
         "title": "青と夏",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68127",
         "ky": "44466"
       },
       {
         "title": "ロマンチシズム",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68137",
         "ky": "-"
       },
       {
         "title": "点描の唄",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "44547",
         "ky": "-"
       },
       {
         "title": "春愁",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "ⓗ 68207",
         "ky": "44523"
       },
       {
         "title": "僕のこと",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68248",
         "ky": "44894"
       },
       {
         "title": "ダンスホール",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68620",
         "ky": "44808"
       },
       {
         "title": "ニュー・マイ・ノーマル",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68635",
         "ky": "44811"
       },
       {
         "title": "ブルーアンビエンス",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68636",
         "ky": "44824"
       },
       {
         "title": "CHEERS",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68718",
         "ky": "-"
       },
       {
         "title": "Soranji",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68736",
         "ky": "44878"
       },
       {
         "title": "Magic",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68835",
         "ky": "44962"
       },
       {
         "title": "ANTENNA",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68885",
         "ky": "75843"
       },
       {
         "title": "アンラブレス",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68918",
         "ky": "75862"
       },
       {
         "title": "ライラック",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68461",
         "ky": "75996"
       },
       {
         "title": "コロンブス",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "68485",
         "ky": "-"
       },
       {
         "title": "familie",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52721",
         "ky": "76522"
       },
       {
         "title": "ダーリン",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52793",
         "ky": "57823"
       },
       {
         "title": "ビターバカンス",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52804",
         "ky": "57819"
       },
       {
         "title": "クスシキ",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52834",
         "ky": "-"
       },
       {
         "title": "StaRt",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52866",
         "ky": "57812"
       },
       {
         "title": "ケセラセラ",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52844",
         "ky": "57810"
       },
       {
         "title": "ア・プリオリ",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52856",
         "ky": "-"
       },
       {
         "title": "私は最強",
-        "artist": "mrs",
+        "artist": "Mrs. GREEN APPLE",
         "tj": "52717",
         "ky": "76515"
       }
     ]
   },
   {
-    "name": "radwimps",
+    "name": "RADWIMPS",
     "songs": [
       {
         "title": "有心論",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27818",
         "ky": "43206"
       },
       {
         "title": "マニフェスト",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43256"
       },
       {
         "title": "ふたりごと",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43282"
       },
       {
         "title": "DADA",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27154",
         "ky": "43324"
       },
       {
         "title": "君と羊と青",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "28624",
         "ky": "43408"
       },
       {
         "title": "シュプレヒコール",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43524"
       },
       {
         "title": "いいんですか?",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43558"
       },
       {
         "title": "オーダーメイド",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43572"
       },
       {
         "title": "me me she",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27546",
         "ky": "43588"
       },
       {
         "title": "最大公約数",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43602"
       },
       {
         "title": "おしゃかしゃま",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43611"
       },
       {
         "title": "トレモロ",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "-",
         "ky": "43833"
       },
       {
         "title": "前前前世",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27944",
         "ky": "44067"
       },
       {
         "title": "スパークル",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27957",
         "ky": "44078"
       },
       {
         "title": "なんでもないや",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27965",
         "ky": "44083"
       },
       {
         "title": "夢灯籠",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "27972",
         "ky": "44089"
       },
       {
         "title": "会心の一撃",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "28665",
         "ky": "44125"
       },
       {
         "title": "愛にできることはまだあるかい",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68057",
         "ky": "44422"
       },
       {
         "title": "グランドエスケープ",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68067",
         "ky": "44423"
       },
       {
         "title": "大丈夫",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68114",
         "ky": "44473"
       },
       {
         "title": "祝祭",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68281",
         "ky": "44485"
       },
       {
         "title": "そっけない",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68282",
         "ky": "44492"
       },
       {
         "title": "うるうびと",
-        "artist": "radwimps",
+        "artist": "RADWIMPS",
         "tj": "68451",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "sekainoowari",
+    "name": "SEKAI NO OWARI",
     "songs": [
       {
         "title": "花鳥風月",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27741",
         "ky": "44056"
       },
       {
         "title": "白昼の夢",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27784",
         "ky": "-"
       },
       {
         "title": "スターライトパレード",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "68829",
         "ky": "43927"
       },
       {
         "title": "天使と悪魔",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27757",
         "ky": "44021"
       },
       {
         "title": "眠り姫",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28570",
         "ky": "43517"
       },
       {
         "title": "虹色の戦争",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27703",
         "ky": "44001"
       },
       {
         "title": "炎と森のカーニバル",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27779",
         "ky": "43805"
       },
       {
         "title": "幻の命",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27768",
         "ky": "43971"
       },
       {
         "title": "スノーマジックファンタジー",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28604",
         "ky": "-"
       },
       {
         "title": "ピエロ",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28608",
         "ky": "-"
       },
       {
         "title": "ANTI-HERO",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27940",
         "ky": "43941"
       },
       {
         "title": "Dragon Night",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27684",
         "ky": "43852"
       },
       {
         "title": "RAIN",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28733",
         "ky": "44175"
       },
       {
         "title": "RPG",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "27434",
         "ky": "43623"
       },
       {
         "title": "SOS",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28694",
         "ky": "-"
       },
       {
         "title": "サザンカ",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28810",
         "ky": "44299"
       },
       {
         "title": "イルミネーション",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "28941",
         "ky": "-"
       },
       {
         "title": "silent",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "68361",
         "ky": "44647"
       },
       {
         "title": "Diary",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "25014",
         "ky": "44762"
       },
       {
         "title": "Habit",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "52745",
         "ky": "76541"
       },
       {
         "title": "死の魔法",
-        "artist": "sekainoowari",
+        "artist": "SEKAI NO OWARI",
         "tj": "52805",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "vaundy",
+    "name": "Vaundy",
     "songs": [
       {
         "title": "CHAINSAW BLOOD",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68722",
         "ky": "75941"
       },
       {
         "title": "踊り子",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68807",
         "ky": "76508"
       },
       {
         "title": "タイムパラドックス",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68912",
         "ky": "75910"
       },
       {
         "title": "裸の勇者",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68633",
         "ky": "44792"
       },
       {
         "title": "花占い",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68512",
         "ky": "44730"
       },
       {
         "title": "おもかげ",
-        "artist": "vaundy",
+        "artist": "milet & Aimer & 幾田りら(produced by Vaundy)",
         "tj": "25017",
         "ky": "44751"
       },
       {
         "title": "トドメの一撃 feat.Cory Wong",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "68911",
         "ky": "75856"
       },
       {
         "title": "ホムンクルス",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "52720",
         "ky": "76527"
       },
       {
         "title": "風神",
-        "artist": "vaundy",
+        "artist": "Vaundy",
         "tj": "52775",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "Vocaloid",
+    "name": "VOCALOID",
     "songs": [
       {
         "title": "1925",
@@ -1776,7 +1776,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "백록",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "87986",
         "ky": "-"
       },
@@ -1872,7 +1872,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "살리에리",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "86585",
         "ky": "82856"
       },
@@ -2082,7 +2082,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "어둑시니",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "76945",
         "ky": "56611"
       },
@@ -2208,7 +2208,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "장산범",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "76726",
         "ky": "24704"
       },
@@ -2256,13 +2256,13 @@ export const artists: Artist[] = [
       },
       {
         "title": "지귀",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "87998",
         "ky": "-"
       },
       {
         "title": "지옥의 끝에서",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "42970",
         "ky": "-"
       },
@@ -2490,7 +2490,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "호가호위",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "87955",
         "ky": "-"
       },
@@ -2514,7 +2514,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "魂䰰",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "42083",
         "ky": "-"
       },
@@ -2700,7 +2700,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "둔갑",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "80331",
         "ky": "-"
       },
@@ -2736,7 +2736,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "매구",
-        "artist": "50mang쏘망",
+        "artist": "50mang",
         "tj": "78903",
         "ky": "-"
       },
@@ -2809,447 +2809,447 @@ export const artists: Artist[] = [
     ]
   },
   {
-    "name": "yoasobi",
+    "name": "YOASOBI",
     "songs": [
       {
         "title": "夜に駆ける",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68381",
         "ky": "44656"
       },
       {
         "title": "あの夢をなぞって",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68398",
         "ky": "44786"
       },
       {
         "title": "ハルジオン",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68402",
         "ky": "44678"
       },
       {
         "title": "たぶん",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68406",
         "ky": "44908"
       },
       {
         "title": "群青",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68390",
         "ky": "44684"
       },
       {
         "title": "ハルカ",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68354",
         "ky": "44642"
       },
       {
         "title": "アンコール",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68359",
         "ky": "44636"
       },
       {
         "title": "怪物",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68387",
         "ky": "44655"
       },
       {
         "title": "優しい彗星",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68385",
         "ky": "44665"
       },
       {
         "title": "もう少しだけ",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68411",
         "ky": "44670"
       },
       {
         "title": "三原色",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68420",
         "ky": "44695"
       },
       {
         "title": "ラブレター",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68514",
         "ky": "44729"
       },
       {
         "title": "もしも命が描けたら",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68544",
         "ky": "44733"
       },
       {
         "title": "ミスター",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68604",
         "ky": "44796"
       },
       {
         "title": "祝福",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68684",
         "ky": "44846"
       },
       {
         "title": "好きだ",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68685",
         "ky": "44861"
       },
       {
         "title": "アイドル",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68781",
         "ky": "44923"
       },
       {
         "title": "セブンティーン",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68793",
         "ky": "44933"
       },
       {
         "title": "アドベンチャー",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68820",
         "ky": "44951"
       },
       {
         "title": "勇者",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68860",
         "ky": "75833"
       },
       {
         "title": "HEART BEAT",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68920",
         "ky": "75932"
       },
       {
         "title": "モノトーン",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "52703",
         "ky": "76524"
       },
       {
         "title": "Adventure",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68932",
         "ky": "-"
       },
       {
         "title": "Biri-Biri",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "68993",
         "ky": "75919"
       },
       {
         "title": "UNDEAD",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "52595",
         "ky": "75979"
       },
       {
         "title": "舞台に立って",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "52705",
         "ky": "76512"
       },
       {
         "title": "海のまにまに",
-        "artist": "yoasobi",
+        "artist": "YOASOBI",
         "tj": "52738",
         "ky": "-"
       }
     ]
   },
   {
-    "name": "yorushika",
+    "name": "ヨルシカ",
     "songs": [
       {
         "title": "言って。",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68078",
         "ky": "-"
       },
       {
         "title": "ただ君に晴れ",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68061",
         "ky": "-"
       },
       {
         "title": "だから僕は音楽を辞めた",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68049",
         "ky": "-"
       },
       {
         "title": "雨とカプチーノ",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68212",
         "ky": "44548"
       },
       {
         "title": "ノーチラス",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68243",
         "ky": "44549"
       },
       {
         "title": "春ひさぎ",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68626",
         "ky": "44818"
       },
       {
         "title": "花人局",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68408",
         "ky": "44693"
       },
       {
         "title": "盗作",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68409",
         "ky": "44661"
       },
       {
         "title": "思想犯",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68329",
         "ky": "44897"
       },
       {
         "title": "夜行",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68662",
         "ky": "44835"
       },
       {
         "title": "花に亡霊",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68230",
         "ky": "44542"
       },
       {
         "title": "春泥棒",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68365",
         "ky": "44646"
       },
       {
         "title": "風を食む",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68339",
         "ky": "-"
       },
       {
         "title": "嘘月",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68309",
         "ky": "-"
       },
       {
         "title": "都落ち",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68450",
         "ky": "-"
       },
       {
         "title": "ブレーメン",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68721",
         "ky": "-"
       },
       {
         "title": "又三郎",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68418",
         "ky": "44682"
       },
       {
         "title": "左右盲",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68702",
         "ky": "75927"
       },
       {
         "title": "アルジャーノン",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68456",
         "ky": "75952"
       },
       {
         "title": "テレパス",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68752",
         "ky": "44889"
       },
       {
         "title": "斜陽",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "52726",
         "ky": "76526"
       },
       {
         "title": "晴る",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "68953",
         "ky": "75893"
       },
       {
         "title": "ルバート",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "52592",
         "ky": "75977"
       },
       {
         "title": "忘れてください",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "52746",
         "ky": "76542"
       },
       {
         "title": "アポリア",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "52708",
         "ky": "-"
       },
       {
         "title": "火星人",
-        "artist": "yorushika",
+        "artist": "ヨルシカ",
         "tj": "52898",
         "ky": "57807"
       }
     ]
   },
   {
-    "name": "zutomayo",
+    "name": "ZUTOMAYO",
     "songs": [
       {
         "title": "JK BOMBER",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "52877",
         "ky": "-"
       },
       {
         "title": "MILABO",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68437",
         "ky": "-"
       },
       {
         "title": "勘ぐれい",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68357",
         "ky": "-"
       },
       {
         "title": "嘘じゃない",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "52731",
         "ky": "76532"
       },
       {
         "title": "蹴っ飛ばした毛布",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68220",
         "ky": "44696"
       },
       {
         "title": "お勉強しといてよ",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68270",
         "ky": "44590"
       },
       {
         "title": "脳上のクラッカー",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "28971",
         "ky": "44354"
       },
       {
         "title": "眩しいDNAだけ",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68005",
         "ky": "44375"
       },
       {
         "title": "サターン",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "52889",
         "ky": "-"
       },
       {
         "title": "袖のキルト",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "26094",
         "ky": "44773"
       },
       {
         "title": "暗く黒く",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68376",
         "ky": "44668"
       },
       {
         "title": "正しくなれない",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68373",
         "ky": "44637"
       },
       {
         "title": "残機",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68806",
         "ky": "44927"
       },
       {
         "title": "あいつら全員同窓会",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68427",
         "ky": "-"
       },
       {
         "title": "正義",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68625",
         "ky": "44817"
       },
       {
         "title": "秒針を噛む",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "28942",
         "ky": "44343"
       },
       {
         "title": "綺羅キラー",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "68750",
         "ky": "44895"
       },
       {
         "title": "海馬成長痛",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "52743",
         "ky": "-"
       },
       {
         "title": "ヒューマノイド",
-        "artist": "zutomayo",
+        "artist": "ずっと真夜中でいいのに。",
         "tj": "28992",
         "ky": "44367"
       }

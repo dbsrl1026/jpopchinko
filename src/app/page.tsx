@@ -12,8 +12,8 @@ export default function Home() {
   const [isMounted, setIsMounted] = useState(false);
   const router = useRouter();
 
-  const jpopArtists = artists.filter(artist => artist.name !== 'Vocaloid');
-  const vocaloidArtist = artists.find(artist => artist.name === 'Vocaloid');
+  const jpopArtists = artists.filter(artist => artist.name !== 'VOCALOID');
+  const vocaloidArtist = artists.find(artist => artist.name === 'VOCALOID');
 
   useEffect(() => {
     setIsMounted(true);
@@ -54,12 +54,12 @@ export default function Home() {
     <div className="container mx-auto p-4 sm:p-6 md:p-8">
       <Card className="w-full max-w-4xl mx-auto">
         <CardHeader>
-          <CardTitle className="text-2xl sm:text-3xl font-bold text-center">J-Popchinko</CardTitle>
+          <CardTitle className="text-2xl sm:text-3xl font-bold text-center">J팝칭코</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="flex flex-col sm:flex-row gap-2 mb-4">
-            <Button onClick={selectAll} className="w-full sm:w-auto">Select All</Button>
-            <Button onClick={deselectAll} variant="secondary" className="w-full sm:w-auto">Deselect All</Button>
+            <Button onClick={selectAll} className="w-full sm:w-auto">모두 선택</Button>
+            <Button onClick={deselectAll} variant="secondary" className="w-full sm:w-auto">모두 해제</Button>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-6">
             {jpopArtists.map(artist => (
@@ -79,7 +79,7 @@ export default function Home() {
             <>
               <div className="relative flex justify-center items-center my-6">
                 <div className="absolute inset-x-0 h-px bg-gray-300"></div>
-                <span className="relative bg-white px-4 text-gray-500 dark:bg-gray-900">Other Categories</span>
+                <span className="relative bg-white px-4 text-gray-500 dark:bg-gray-900">너 이런거 좋아하니</span>
               </div>
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-6">
                 <Toggle

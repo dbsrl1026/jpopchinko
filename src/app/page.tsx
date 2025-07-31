@@ -101,7 +101,7 @@ export default function Home() {
               disabled={selectedArtists.length === 0}
               className="w-full h-14 text-lg font-bold border-2 border-red-700"
             >
-              Start Roulette
+              룰렛 START
             </Button>
           </div>
         </CardContent>

@@ -30,7 +30,7 @@ fs.readdirSync(csvDir).forEach(file => {
 
     if (isVocaloid) {
         allArtists.push({
-            name: 'Vocaloid',
+            name: 'VOCALOID',
             songs: songs,
         });
     } else {

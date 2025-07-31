@@ -881,8 +881,8 @@ export const artists: Artist[] = [
       {
         "title": "WanteD! WanteD!",
         "artist": "Mrs. GREEN APPLE",
-        "tj": "-",
-        "ky": "28776"
+        "tj": "28776",
+        "ky": "44208"
       },
       {
         "title": "インフェルノ",

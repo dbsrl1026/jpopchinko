@@ -13,20 +13,25 @@ fs.readdirSync(csvDir).forEach(file => {
   if (path.extname(file) === '.csv') {
     const csvFilePath = path.join(csvDir, file);
     const csvFileContent = fs.readFileSync(csvFilePath, 'utf8');
-    
+
     const artistName = path.basename(file, '.csv');
-    const isVocaloid = artistName.toLowerCase() === 'vocaloid';
+    const isVocaloid = path.basename(file, '.csv').toLowerCase() === 'vocaloid';
 
     const { data } = papa.parse(csvFileContent, {
       skipEmptyLines: true,
+      // header: false, // data is already array of arrays
+      // dynamicTyping: true, // to prevent automatic type conversion
     });
 
     const songs = data.map(row => ({
       title: row[0],
-      artist: isVocaloid ? row[1] : artistName,
+      artist: row[1],
       tj: row[2] || '-',
       ky: row[3] || '-',
     }));
+
+    // Use the artist name from the first song in the CSV, unless it's Vocaloid
+    const actualArtistName = songs.length > 0 ? songs[0].artist : artistName; // Fallback to filename if no songs
 
     if (isVocaloid) {
         allArtists.push({
@@ -35,7 +40,7 @@ fs.readdirSync(csvDir).forEach(file => {
         });
     } else {
         allArtists.push({
-            name: artistName,
+            name: actualArtistName, // <-- 이 부분 변경
             songs: songs,
         });
     }

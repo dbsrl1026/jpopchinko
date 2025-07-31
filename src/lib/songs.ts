@@ -149,55 +149,168 @@ export const artists: Artist[] = [
       {
         "title": "ノット・オーケー",
         "artist": "あいみょん",
-        "tj": "-",
+        "tj": "68928",
         "ky": "-"
       },
       {
         "title": "あのね",
         "artist": "あいみょん",
-        "tj": "75871",
-        "ky": "-"
+        "tj": "68929",
+        "ky": "75871"
       },
       {
         "title": "あした世界が終わるとしても",
         "artist": "あいみょん",
-        "tj": "75933",
-        "ky": "-"
+        "tj": "52568",
+        "ky": "75933"
       },
       {
         "title": "会いに行くのに",
         "artist": "あいみょん",
-        "tj": "75963",
-        "ky": "-"
+        "tj": "52574",
+        "ky": "75963"
       },
       {
         "title": "チカ",
         "artist": "あいみょん",
-        "tj": "75969",
-        "ky": "-"
+        "tj": "68467",
+        "ky": "75969"
       },
       {
         "title": "ラッキーカラー",
         "artist": "あいみょん",
-        "tj": "76517",
-        "ky": "-"
+        "tj": "68454",
+        "ky": "76517"
       },
       {
         "title": "ざらめ",
         "artist": "あいみょん",
-        "tj": "76536",
-        "ky": "-"
+        "tj": "52736",
+        "ky": "76536"
       },
       {
         "title": "rhythm 64",
         "artist": "あいみょん",
-        "tj": "-",
+        "tj": "52850",
         "ky": "-"
       },
       {
         "title": "どうせ死ぬなら",
         "artist": "あいみょん",
-        "tj": "-",
+        "tj": "52853",
+        "ky": "-"
+      }
+    ]
+  },
+  {
+    "name": "back number",
+    "songs": [
+      {
+        "title": "クリスマスソング",
+        "artist": "back number",
+        "tj": "27807",
+        "ky": "43987"
+      },
+      {
+        "title": "水平線",
+        "artist": "back number",
+        "tj": "68446",
+        "ky": "44701"
+      },
+      {
+        "title": "ヒロイン",
+        "artist": "back number",
+        "tj": "27762",
+        "ky": "43998"
+      },
+      {
+        "title": "高嶺の花子さん",
+        "artist": "back number",
+        "tj": "27805",
+        "ky": "43932"
+      },
+      {
+        "title": "HAPPY BIRTHDAY",
+        "artist": "back number",
+        "tj": "68009",
+        "ky": "44386"
+      },
+      {
+        "title": "瞬き",
+        "artist": "back number",
+        "tj": "28816",
+        "ky": "44232"
+      },
+      {
+        "title": "アイラブユー",
+        "artist": "back number",
+        "tj": "68683",
+        "ky": "44854"
+      },
+      {
+        "title": "花束",
+        "artist": "back number",
+        "tj": "68719",
+        "ky": "43736"
+      },
+      {
+        "title": "ハッピーエンド",
+        "artist": "back number",
+        "tj": "28675",
+        "ky": "44136"
+      },
+      {
+        "title": "新しい恋人達に",
+        "artist": "back number",
+        "tj": "68484",
+        "ky": "75998"
+      },
+      {
+        "title": "わたがし",
+        "artist": "back number",
+        "tj": "68091",
+        "ky": "44434"
+      },
+      {
+        "title": "冬と春",
+        "artist": "back number",
+        "tj": "68924",
+        "ky": "75896"
+      },
+      {
+        "title": "ベルベットの詩",
+        "artist": "back number",
+        "tj": "68655",
+        "ky": "44828"
+      },
+      {
+        "title": "大不正解",
+        "artist": "back number",
+        "tj": "28910",
+        "ky": "-"
+      },
+      {
+        "title": "幸せ",
+        "artist": "back number",
+        "tj": "28968",
+        "ky": "44347"
+      },
+      {
+        "title": "君の恋人になったら",
+        "artist": "back number",
+        "tj": "52900",
+        "ky": "-"
+      },
+      {
+        "title": "黄色",
+        "artist": "back number",
+        "tj": "68520",
+        "ky": "44714"
+      },
+      {
+        "title": "チェックのワンピース",
+        "artist": "back number",
+        "tj": "52824",
         "ky": "-"
       }
     ]
@@ -212,7 +325,7 @@ export const artists: Artist[] = [
         "ky": "44438"
       },
       {
-        "title": "宿命(숙명)",
+        "title": "宿命",
         "artist": "Official髭男dism",
         "tj": "68086",
         "ky": "44442"
@@ -827,7 +940,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "再会(with Uru",
-        "artist": "LiSA",
+        "artist": " produced by Ayase)",
         "tj": "LiSA",
         "ky": "68342"
       },
@@ -904,7 +1017,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "点描の唄",
-        "artist": "Mrs. GREEN APPLE",
+        "artist": "68141",
         "tj": "44547",
         "ky": "-"
       },
@@ -1776,7 +1889,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "백록",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "87986",
         "ky": "-"
       },
@@ -1872,7 +1985,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "살리에리",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "86585",
         "ky": "82856"
       },
@@ -2082,7 +2195,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "어둑시니",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "76945",
         "ky": "56611"
       },
@@ -2208,7 +2321,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "장산범",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "76726",
         "ky": "24704"
       },
@@ -2256,13 +2369,13 @@ export const artists: Artist[] = [
       },
       {
         "title": "지귀",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "87998",
         "ky": "-"
       },
       {
         "title": "지옥의 끝에서",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "42970",
         "ky": "-"
       },
@@ -2490,7 +2603,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "호가호위",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "87955",
         "ky": "-"
       },
@@ -2514,7 +2627,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "魂䰰",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "42083",
         "ky": "-"
       },
@@ -2700,7 +2813,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "둔갑",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "80331",
         "ky": "-"
       },
@@ -2736,7 +2849,7 @@ export const artists: Artist[] = [
       },
       {
         "title": "매구",
-        "artist": "50mang",
+        "artist": "50mang쏘망",
         "tj": "78903",
         "ky": "-"
       },

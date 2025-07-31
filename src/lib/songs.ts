@@ -653,7 +653,7 @@ export const artists: Artist[] = [
         "ky": "44728"
       },
       {
-        "title": "二途",
+        "title": "一途",
         "artist": "King Gnu",
         "tj": "68556",
         "ky": "44745"

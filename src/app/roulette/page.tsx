@@ -65,10 +65,11 @@ function RouletteContent() {
             </div>
             
             <div className="flex flex-row gap-4 mt-4 w-full justify-center">
-                <Button onClick={() => router.back()} variant="outline" className="w-full sm:w-auto">Back</Button>
+                <Button onClick={() => router.back()} variant="outline" size="lg" className="flex-1">Back</Button>
                 <Button 
                   onClick={handleToggleSpin} 
-                  className="w-full sm:w-auto border-2 border-blue-700"
+                  size="lg"
+                  className="flex-1 border-2 border-blue-700"
                   disabled={songPool.length === 0}
                 >
                   {isSpinning ? 'Stop' : 'Spin Again'}
